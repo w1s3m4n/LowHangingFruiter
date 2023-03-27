@@ -1,0 +1,6 @@
+Version 1.0:
+    - Complete development of the tool
+
+Version 1.1:
+    - Added Cargo.toml checks functionality
+    - Added extension parsing on find_everything function, and other minor fixes
